@@ -2,7 +2,7 @@
 int main() {
     int a,b,c;
     c=a|b;
-    scanf("%d %d %d" ,&a,&b,&c);
+    scanf("%d %d" ,&a,&b);
     printf("c")
     return 0;
 }
