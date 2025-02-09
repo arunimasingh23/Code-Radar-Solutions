@@ -2,7 +2,9 @@
 int main() {
     int a;
     scanf("%d",&a);
-    int b=a|1;
-    printf("%d" ,b);
+    if (a|1);
+    printf("Set");
+    else
+    printf("Not Set");
     return 0;
 }
