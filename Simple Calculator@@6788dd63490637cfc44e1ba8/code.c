@@ -14,4 +14,7 @@ int main(){
     if(c == /){
         printf("%d" ,a/b);
     }
+    else{
+        printf("Invalid");
+    }
     }
