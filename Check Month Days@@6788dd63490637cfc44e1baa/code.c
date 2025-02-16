@@ -11,4 +11,7 @@ int main(){
     else if(a==2){
         printf("28");
     }
+    else{
+        printf("Invalid number");
+    }
     }
